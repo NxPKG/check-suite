@@ -20,8 +20,6 @@ jobs:
 
 # GitHub Actions for Checks API
 
-[![Build Status](https://nxpkg.github.io/github/nxpkg/check-suite.svg)](https://nxpkg.github.io/github/nxpkg-actions/check-suite) [![](https://images.microbadger.com/badges/version/nxpkg/check-suite.svg)](https://microbadger.com/images/nxpkg/check-suite) [![](https://images.microbadger.com/badges/image/nxpkg/check-suite.svg)](https://microbadger.com/images/nxpkg/check-suite)
-
 To use the action simply add the following lines to your `.github/main.workflow`:
 
 ```

@@ -4,7 +4,7 @@ workflow "Nxpkg CI Demo" {
 }
 
 action "Nxpkg CI Passes" {
-  uses = "docker://nxpkgactions/check-suite:latest"
+  uses = "docker://nxpkg/check-suite:latest"
   env = {
     APP_NAME = "Nxpkg CI"
   }
